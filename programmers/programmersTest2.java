@@ -31,6 +31,5 @@ public class programmersTest2 {
             answer = common[common.length - 1] * add;
         }
         return answer;
-        
     }
 }
